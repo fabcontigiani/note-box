@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       40e1b093-06d8-4147-bdaa-ddc386597ba0
+:END:
+#+title: Ley de Gauss
+
+* Ley de Gauss
+
+La *Ley de Gauss* dice que el [[id:b43d17fd-1573-4bb1-b4cf-4cfa51f4ac1e][Flujo eléctrico]] neto $\Phi_E$ a traves de cualquier superficie gaussiana cerrada es igual a la carga /neta/ $q_{\text{int}}$ dentro de la superficie, dividida por $\epsilon_0$:
+$$\Phi_E = \oint \vec{E} \cdot d\vec{A} = \frac{q_{\text{int}}}{\epsilon_0}$$
+Al usar la ley de Gauss se puede calcular el [[id:ef42e06f-f5a9-46e6-909b-b23928835397][Campo eléctrico]] debido a varias distribuciones de carga simetricas.
+
+[[cite:&serway18_fisica2][p. 630]]

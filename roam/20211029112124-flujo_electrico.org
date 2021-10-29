@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       b43d17fd-1573-4bb1-b4cf-4cfa51f4ac1e
+:END:
+#+title: Flujo eléctrico
+
+* Flujo eléctrico
+
+El *flujo eléctrico* es proporcional al numero de lineas de [[id:ef42e06f-f5a9-46e6-909b-b23928835397][Campo eléctrico]] que penetran una superficie. Si el campo eléctrico es _uniforme_ y forma un angulo $\theta$ con la normal de una superficie de area $A$, el flujo eléctrico es
+$$\Phi_E = EA \cos \theta$$
+
+En general, el flujo eléctrico a traves de una superficie es
+$$\Phi_E = \int_{\text{superficie}} \vec{E}\cdot d \vec{A}$$
+
+[[cite:&serway18_fisica2][p. 630]]

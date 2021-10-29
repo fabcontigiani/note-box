@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       aa406a0e-f327-440b-aa44-bffe9b36f7bc
+:END:
+#+title: Ley de Coulomb
+
+* Ley de Coulomb
+
+La *ley de Coulomb* establece que la fuerza eléctrica que ejerce una carga puntual $q_1$ sobre una carga puntual $q_2$ es
+$$\vec{F_{12}} = k_e \frac{q_1 q_2}{r^2} \hat{r_{12}}$$
+donde $r$ es la distancia entre las dos cargas y $\hat{r_{12}}$ es un vector unitario dirigido de $q_1$ hacia $q_2$. La constante $k_e$ que se llama *constante de Coulomb*, tiene el valor $k_e = 8.99 \times 10^9 N \cdot m^2 / C^2$.
+
+[[cite:&serway18_fisica2][p. 608]]

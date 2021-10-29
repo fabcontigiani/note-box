@@ -1,0 +1,62 @@
+#+TITLE: Apunte final
+
+* Unidad 0: Nociones previas
+** Teoría de conjunto de puntos
+*** Entorno de un punto
+*** Entorno reducido
+*** Punto de acumulación
+* Unidad 1: Funciones, límite y continuidad de funciones
+** Funciones inyectivas, sobreyectivas y biyectivas
+** Límite
+*** Definición de límite
+
+Si $f(x)$ se acerca de manera arbitraria a un número $L$ a medida que $x$ se aproxima a $c$ por cualquiera de sus lados, se dice que el límite de $f(x)$ cuando $x$ se aproxima a $c$ es $L$ y se escribe
+
+$$ \lim_{x\to c} f(x)=L $$.
+
+La frase "$f(x)$ se acerca arbitrariamente a $L$" significa que $f(x)$ pertenece al intervalo $(L-\varepsilon,L+\varepsilon)$. Al usar la noción de valor absoluto, esto se puede escribir como
+
+$$ |f(x)-L| < \varepsilon $$.
+
+Del mismo modo, la frase "$x$ se aproxima a $c$" significa que existe un número positivo $\delta$ tal que $x$ pertenece al intervalo $(c-\delta,c)$, o bien al intervalo $(c,c+\delta)$. Esto puede expresarse de manera concisa mediante la doble desigualdad
+
+$$ 0 < |x-c| < \delta$$.
+
+#+begin_quote
+Sea $f$ una función definida en un intervalo abierto que contiene a $c$ (salvo posiblemente en $c$) y $L$ un número real. La expresión
+
+$$ \lim_{x\to c} f(x)=L $$
+
+significa que para cada $\varepsilon < 0$ existe un $\delta > 0$ tal que significa
+
+$$ 0 < |x-c| < \delta$$
+
+entonces
+
+$$ |f(x)-L| < \varepsilon $$.
+#+end_quote
+
+*** Interpretación geométrica de la definición
+[[file:interpretracion_limite.png]]
+** Continuidad
+*** Definición de continuidad
+
+Sea una función $f(x)$ que incluye en su dominio $x = a$; diremos que $f(x)$ es *continua* en $a$, si se cumplen las tres condiciones siguientes:
+
+1. Existe $f(a)$
+2. Existe $$\lim_{x\to a}f(x)$$
+3. $$\lim_{x\to a}f(x)=f(a)$$
+
+*** Discontinuidad
+
+Si una o más de estas condiciones no se cumple, la función _no será continua_ en $a$ y presentará allí una *discontinuidad*. Las discontinuidades en una función se observan a simple vista, porque allí sucede alto raro, es decir, la gráfica tendrá algún tipo de interrupción.
+
+Existen entonces, tres tipos de discontinuidades:
+- Discontinuidad evitable (hueco)
+- Discontinuidad de salto
+- Discontinuidad infinita (asíntota vertical)
+
+* Unidad 2: Derivadas y aplicaciones
+* Unidad 3: Integrales y aplicaciones
+* Unidad 4: Sucesiones y series
+* Unidad 5: Ecuaciones diferenciales ordinarias de primer orden

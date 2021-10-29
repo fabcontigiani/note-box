@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       ef42e06f-f5a9-46e6-909b-b23928835397
+:END:
+#+title: Campo eléctrico
+
+* Campo eléctrico
+
+** Definición
+
+El campo eléctrico $\vec{E}$ en algún punto del espacio se define como la fuerza eléctrica $\vec{F_e}$ que actúa sobre una pequeña carga de prueba positiva colocada en dicho punto, dividida entre la magnitud $q_0$ de la carga de prueba:
+$$\vec{E} \equiv \frac{\vec{F_e}}{q_0}$$
+
+A una distancia $r$ de una carga puntual $q$, el campo eléctrico generado por una carga es
+$$\vec{E} = k_e \frac{q}{r^2}\hat{r}$$
+donde $\hat{r}$ es un vector unitario dirigido desde la carga hacia el punto en cuestión. El campo eléctrico se dirige radialmente hacia afuera de la carga positiva y radialmente hacia adentro hacia una carga negativa.
+
+El campo eléctrico generado por un grupo de cargas puntuales se puede calcular cuando el principio de superposición. Esto es el campo eléctrico total en algún punto es igual a la suma vectorial de los campos eléctricos de todas las cargas: $$\vec{E} = k_e \sum_i \frac{q_i}{r_i^2} \hat{r_i} $$
+
+** Partícula en un campo eléctrico
+
+Una partícula fuente con alguna carga eléctrica establece un campo eléctrico $\vec{E}$ a traves del espacio. Cuando se coloca una partícula con carga $q$ en ese campo, experimenta una fuerza eléctrica dada por
+$$\vec{F} = q \vec{E}$$
+
+** Campo eléctrico de una 1 de carga continua
+
+El campo eléctrico en algún punto debido a una distribución de carga continua es
+$$\vec{E} = k_e \int \frac{dq}{r^2} \hat{r}$$
+donde $dq$ es la carga de un elemento de la 2 de carga y $r$ es la distancia del elemento al punto en cuestión.
+
+[[cite:&serway18_fisica2][p. 608]]
