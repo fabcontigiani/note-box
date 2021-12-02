@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       458d838a-2b3b-4463-8866-17235d436c86
+:END:
+#+title: Teorema de Bolzano
+
+* Teorema de Bolzano
+
+Si una función es continua en el intervalo cerrado $[a,b]$ y toma los extremos del mismo valores $f(a)$ y $f(b)$ de _signos opuestos_, entonces se anula por lo menos en *un* punto interior al intervalo $[a,b]$. Lo que significa que $\exists\ c \in (a,b) / f(c)=0$.

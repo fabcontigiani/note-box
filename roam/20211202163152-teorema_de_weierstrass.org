@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       92a5fec8-effd-4895-9f2a-4d59e227ab47
+:END:
+#+title: Teorema de Weierstrass
+
+* Teorema de Weierstrass
+
+- Si una función es continua en un intervalo $[a,b]$ entonces esta acotada en dicho intervalo.
+  Esto significa que el conjunto imagen tiene ínfimo y supremo.
+- Toda función continua en un intervalo cerrado alcanza en él un valor máximo absoluto $M$ que no es superado por ningún otro y un valor mínimo absoluto $m$ que no supera a ningún otro.
+  Por lo tanto, el ínfimo y el supremo pertenecen a $[a,b]$.

@@ -5,6 +5,23 @@
 
 * Discontinuidad
 
-Si una funcion no cumple con una de las tres condiciones de [[id:39f23ea4-de4c-45fa-9bc7-def112ebc8ed][Continuidad]] se dice que es discontinua en el punto.
+Si una función no cumple con una de las tres condiciones de [[id:39f23ea4-de4c-45fa-9bc7-def112ebc8ed][Continuidad]] se dice que es discontinua en el punto.
 
 ** Discontinuidad evitable
+
+También conocida como Hueco. De las tres condiciones necesarias para garantizar la continuidad en $x=b$ en este caso se cumple solamente la segunda. Al no estar definida $f(b)$, no se cumplen la primera condición ni la tercera.
+
+[[https://i.imgur.com/W1RCKpz.png]]
+
+Se denomina evitable o removible que es posible *salvar* la discontinuidad _redefiniendo_ la función como una nueva función por tramos, donde el primer tramo coincide con $f(x)$ excepto en el valor $b$ y el segundo tramo es un punto solamente, que asigna dicha abscisa una ordenada coincidente con el limite $l$.
+
+** Discontinuidad de salto
+
+En el salto existen ambos limites laterales, pero al ser diferentes, no existe el limite bilateral. En este caso particular, la funcion esta definida en $x=b$, de manera que de las tres condiciones necesarias para garantizar la continuidad en $b$, solo se cumple la primera.
+
+[[https://i.imgur.com/zMZGYkE.png]]
+** Discontinuidad infinita
+
+Son las asíntotas verticales. En este caso no se cumplen ninguna de las tres condiciones de continuidad, ya que $x=b$ está excluido del dominio y ademas no existen los limites cuando $x \to b$.
+
+[[https://i.imgur.com/3X51Kkj.png]]

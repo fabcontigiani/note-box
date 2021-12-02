@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       d2cdc096-6cbc-4c8b-9c31-f34eda427944
+:END:
+#+title: Teorema del valor medio
+
+* Teorema del valor medio
+
+Sea $y=f(x)$ una funcion continua en el intervalo $[a,b]$ y $k$ un valor intermedio entre $f(a)$ y $f(b)$, $[f(a)\neq f(b)]$ entonces existe un punto $c$ interior a $(a,b) / f(c) = k$.
+Esta propiedad se puede interpretar de la siguiente manera:
+Si una función es continua en el intervalo $[a,b]$ la misma alcanza *todos* los valores comprendidos entre $f(a)$ y $f(b)$.
