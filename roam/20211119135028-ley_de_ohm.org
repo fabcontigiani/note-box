@@ -1,0 +1,4 @@
+:PROPERTIES:
+:ID:       6286b5ee-b284-452e-a985-643a8d92a3c5
+:END:
+#+title: Ley de Ohm

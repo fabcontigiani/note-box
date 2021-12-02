@@ -8,36 +8,7 @@
 * Unidad 1: Funciones, límite y continuidad de funciones
 ** Funciones inyectivas, sobreyectivas y biyectivas
 ** Límite
-*** Definición de límite
-
-Si $f(x)$ se acerca de manera arbitraria a un número $L$ a medida que $x$ se aproxima a $c$ por cualquiera de sus lados, se dice que el límite de $f(x)$ cuando $x$ se aproxima a $c$ es $L$ y se escribe
-
-$$ \lim_{x\to c} f(x)=L $$.
-
-La frase "$f(x)$ se acerca arbitrariamente a $L$" significa que $f(x)$ pertenece al intervalo $(L-\varepsilon,L+\varepsilon)$. Al usar la noción de valor absoluto, esto se puede escribir como
-
-$$ |f(x)-L| < \varepsilon $$.
-
-Del mismo modo, la frase "$x$ se aproxima a $c$" significa que existe un número positivo $\delta$ tal que $x$ pertenece al intervalo $(c-\delta,c)$, o bien al intervalo $(c,c+\delta)$. Esto puede expresarse de manera concisa mediante la doble desigualdad
-
-$$ 0 < |x-c| < \delta$$.
-
-#+begin_quote
-Sea $f$ una función definida en un intervalo abierto que contiene a $c$ (salvo posiblemente en $c$) y $L$ un número real. La expresión
-
-$$ \lim_{x\to c} f(x)=L $$
-
-significa que para cada $\varepsilon < 0$ existe un $\delta > 0$ tal que significa
-
-$$ 0 < |x-c| < \delta$$
-
-entonces
-
-$$ |f(x)-L| < \varepsilon $$.
-#+end_quote
-
-*** Interpretación geométrica de la definición
-[[file:interpretracion_limite.png]]
+- [[id:0fa0d904-eb26-440c-b136-289e827e4f6c][Límite]]
 ** Continuidad
 *** Definición de continuidad
 
@@ -57,6 +28,48 @@ Existen entonces, tres tipos de discontinuidades:
 - Discontinuidad infinita (asíntota vertical)
 
 * Unidad 2: Derivadas y aplicaciones
+** Derivadas
+*** Definicion
+*** Cociente incremental
+*** Regla del producto
+*** Regla del cociente
+*** Regla de la cadena
+** Diferenciacion implicita
+** Diferenciacion logaritmica
+** Teorema de Rolle
+** Teorema del valor medio
+** Regla de L'Hopital
+** Estudio de funciones
+*** Crecimiento y decrecimiento
+*** Extremos relativos y absolutos
+*** Puntos criticos
+*** Asintotas
+*** Concavidad y puntos de inflexion
+** Optimizacion
 * Unidad 3: Integrales y aplicaciones
+** Integrales
+*** Sumas inferiores y superiores, suma de Riemann
+*** Definicion de integral
+** Teorema fundamental del Calculo
+** Metodos de integracion
+** Area entre curvas
+** Longitud del arco
+** Volumen del solido de revolucion
+** Integrales impropias
 * Unidad 4: Sucesiones y series
+** Sucesiones
+** Polinomio de Taylor
+** Series
+*** Definicion
+*** Condicion Necesaria de Convergencia
+*** Criterio de la Integral
+*** Criterio de la Razon
+*** Criterio de la Raiz
+** Series geometricas
+** Series telescopicas
+** Series armonicas
+** Series alternadas, criterio de Leibniz
+** Series de potencias
+** Series de Taylor
+
 * Unidad 5: Ecuaciones diferenciales ordinarias de primer orden

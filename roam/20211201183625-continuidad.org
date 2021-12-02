@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       39f23ea4-de4c-45fa-9bc7-def112ebc8ed
+:END:
+#+title: Continuidad
+
+* Continuidad
+
+La continuidad de una función esta asociada intuitivamente al concepto de que su grafica no tenga interrupciones, ya sea agujeros o saltos.
+
+** Continuidad en un punto
+Las condiciones que debe cumplir una función para ser continua en un punto $x=a$ de acumulación de su dominio son:
+1. Que exista $f(a)$. ($a \in \text{Dom}f$)
+2. Que exista $l$ y sea finito en el punto.
+3. $f(a) = l$
+
+Estas tres condiciones se pueden resumir en una sola: $\lim_{x \to a} f(x)=f(a)$.
+
+Si una función no cumple con alguna de estas condiciones se dice que es [[id:94feffdb-231f-4ae1-aa48-0e722fe55a3f][discontinua]] en el punto.

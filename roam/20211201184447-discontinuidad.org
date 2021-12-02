@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       94feffdb-231f-4ae1-aa48-0e722fe55a3f
+:END:
+#+title: Discontinuidad
+
+* Discontinuidad
+
+Si una funcion no cumple con una de las tres condiciones de [[id:39f23ea4-de4c-45fa-9bc7-def112ebc8ed][Continuidad]] se dice que es discontinua en el punto.
+
+** Discontinuidad evitable
