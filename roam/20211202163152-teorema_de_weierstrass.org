@@ -1,9 +1,10 @@
 :PROPERTIES:
 :ID:       92a5fec8-effd-4895-9f2a-4d59e227ab47
+:ROAM_ALIASES: "Teorema del valor extremo"
 :END:
 #+title: Teorema de Weierstrass
 
-* Teorema de Weierstrass
+* Teorema de Weierstrass o del valor [[id:395cedf3-e25e-4de5-8a4d-a30e23d38f13][Extremo]]
 
 - Si una función es continua en un intervalo $[a,b]$ entonces esta acotada en dicho intervalo.
   Esto significa que el conjunto imagen tiene ínfimo y supremo.
