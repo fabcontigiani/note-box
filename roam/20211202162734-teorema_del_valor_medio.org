@@ -4,8 +4,32 @@
 :END:
 #+title: Teorema del valor medio
 
-* Teorema del valor medio
+* Teorema del valor medio o de Lagrange
 
-Sea $y=f(x)$ una funcion [[id:39f23ea4-de4c-45fa-9bc7-def112ebc8ed][continua]] en el intervalo $[a,b]$ y $k$ un valor intermedio entre $f(a)$ y $f(b)$, $[f(a)\neq f(b)]$ entonces existe un punto $c$ interior a $(a,b) / f(c) = k$.
-Esta propiedad se puede interpretar de la siguiente manera:
-Si una función es continua en el intervalo $[a,b]$ la misma alcanza *todos* los valores comprendidos entre $f(a)$ y $f(b)$.
+Si $f$ es una función [[id:39f23ea4-de4c-45fa-9bc7-def112ebc8ed][continua]] en el intervalo $[a;b]$ y [[id:f8da707b-f5f4-4536-a451-99b8abcaecad][derivable]] en el intervalo $(a;b)$ entonces existe un punto $c \in (a;b)$ en el que se verifica que:
+$$f'(c)=\frac{f(b)-f(a)}{b-a}$$
+Es decir, que la recta tangente a la función en el punto $c$ es paralela a la recta secante que pasa por los puntos de los extremos del intervalo, $a$ y $b$.
+
+** Demostración
+
+[[https://i.imgur.com/D5giJId.png]]
+
+Sean $A(a, f(a))$ y $B(b, f(b))$ los puntos extremos del intervalo y sea $RS$ la recta secante que une ambos puntos, cuya ecuación es:
+$$
+y-f(a)=\frac{f(b)-f(a)}{b-a}(x-a)
+$$.
+Sea $D(x)$ una función que en cada punto del intervalo $[a;b]$ determina la diferencia de ordenadas (imágenes) de la función $f$ y la $RS$:
+$$
+D(x)=f(x)-\left[\frac{f(b)-f(a)}{b-a}(x-a)+f(a)\right]
+$$;
+esta función es continua en $[a;b]$ y derivable en $(a;b)$ y ademas, en los puntos $A$ y $B$ verifica: $D(a)=D(b)=0$, dado que estos puntos son comunes a ambas funciones y entonces, sus imágenes allí son idénticas y la diferencia entre ellas es nula. De manera que $D(x) satisface las condiciones del [[id:2c5d8109-cb53-4ffe-900d-dd8b6af503db][Teorema de Rolle]] en el intervalo $a\leq x\leq b$ y entonces, debe existir un punto $c$ interior a dicho intervalo donde $D'(c)=0$:
+$$
+D'(x)=f'(x)-\frac{f(b)-f(a)}{b-a} \rightarrow D'(c)=f'(c)-\frac{f(b)-f(a)}{b-a}=0 \rightarrow f'(c)=\frac{f(b)-f(a)}{b-a}
+$$
+El Teorema del valor medio establece que si una función es continua y derivable en un intervalo, existe al menos, un punto interior a dicho intervalo, donde la pendiente de la recta tangente coincide con la pendiente de la recta secante que une los extremos del intervalo. En caso que los puntos $A$ y $B$ tengan la misma imagen, el Teorema del valor medio se convierte en el [[id:2c5d8109-cb53-4ffe-900d-dd8b6af503db][Teorema de Rolle]], de manera que éste último es un caso especial del Teorema del valor medio.
+
+* Teorema del valor medio generalizado o de Cauchy
+
+Si $f$ y $g$ son funciones [[id:39f23ea4-de4c-45fa-9bc7-def112ebc8ed][continuas]] en el $[a;b]$ y [[id:f8da707b-f5f4-4536-a451-99b8abcaecad][derivables]] en el $(a;b)$ y $\forall \in (a;b): g'(x) \neq 0$ entonces $\exists c \in (a;b)$ tal que:
+$$\frac{f'(c)}{g'(c)} = \frac{f(b)-f(a)}{g(b)-g(a)}$$
+Observese que no hace falta exigir que $g(b)-g(a) \neq 0$ porque si fuese así $g'(x)$ se anularía en algún punto del intervalo ([[id:2c5d8109-cb53-4ffe-900d-dd8b6af503db][Teorema de Rolle]]) y esto contradice la hipótesis.
