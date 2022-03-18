@@ -10,6 +10,7 @@
     "serway18_fisica2"
     "chang13_quimica"
     "hopcroft08_automatas"
-    "larson16_calculo1"))
+    "larson16_calculo1"
+    "alexander13_fundam"))
  :bibtex)
 
