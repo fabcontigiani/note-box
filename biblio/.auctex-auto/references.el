@@ -11,6 +11,7 @@
     "chang13_quimica"
     "hopcroft08_automatas"
     "larson16_calculo1"
-    "alexander13_fundam"))
+    "alexander13_fundam"
+    "devore16_probab"))
  :bibtex)
 
