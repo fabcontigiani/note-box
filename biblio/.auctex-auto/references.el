@@ -12,6 +12,7 @@
     "hopcroft08_automatas"
     "larson16_calculo1"
     "alexander13_fundam"
-    "devore16_probab"))
+    "devore16_probab"
+    "floyd08_dispos"))
  :bibtex)
 
