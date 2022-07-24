@@ -1,0 +1,93 @@
+:PROPERTIES:
+:ID:       a0f44228-9063-4dc6-bbfe-67bb68ff4c9c
+:END:
+#+title: Organización empresarial
+
+* Unidad 1:
+
+** Organización
+
+*** Definición
+Las organizaciones son sistemas humanos de cooperación y coordinación
+acoplados de unos *limites* definidos para perseguir metas y objetivos.
+
+*** Son reales las organizaciones?
+Una organización es real si tiene poder para influir sobre el
+comportamiento de los individuos.
+
+*** Caracteristicas
+1. _Proposito distintivo:_ metas o conjunto de metas
+2. _Personas:_ Varias personas para realizar el trabajo necesario
+3. _Estructura deliberada:_ Se desarrollan /estructuras/
+
+*** Tipos
+- Segun estructura:
+  - Simple
+  - Burocratica
+  - Por proyecto
+- Segun actividades:
+  - Agropecuaria (sector primario)
+  - Constructora
+  - Industrial (sector secundario)
+  - Comercial
+  - Servicios (sector terciario)
+- Segun fines:
+  - Con fines de lucro
+  - Sin fines de lucro
+- Segun ambito geografico:
+  - Domestico
+  - Internacional
+  - Multinacional
+  - Organizaciones sin fronteras
+- Segun tamano:
+  - Grandes
+  - Medianas
+  - Pequenas
+  - Micro
+- Segun adhesion:
+  - Coercitivas
+  - Remunerativas
+  - Normativas
+- Segun forma juridica:
+  - Sociedades colectivas
+  - Sociedades en comandita simple
+  - Sociedades de capital e industria
+  - Sociedades de responsabilidad limitada
+  - Sociedades anonimas
+  - Sociedades en comandita por acciones
+  - Sociedades cooperativas
+
+- *Sector primario:* extraccion de materias primas.
+- *Sector secundario:* utilizar recursos obtenidos por el sector primario
+para realizar nuevos productos. Bienes de consumo y bienes de capital.
+- *Sector terciario:* se encarga de objetos intangibles (servicios).
+- *Sector cuaternario:* aspecto intelectual de la economia, investigacion,
+  tecnologia, educacion, etc.
+- *Sector quinario:* legislaciones gubernamentales, funcionarios del gobierno.
+
+** Empresa
+
+*** Definicion
+Es todo proposito humano que busca reunir e integrar recursos humanos
+y no humanos para alcanzar los objetivos de auto-sostenimiento y de
+lucro mediante la produccion de bienes y servicios.
+
+*** Objetivos
+- Obtener utilidades (ser productivo)
+- Ofrecer precios competitivos
+- Ofrecer productos de calidad
+- Dar trabajo a las personas
+- Servir a la sociedad
+- Permanencia
+- Cuidar la ecologia
+
+*** Caracteristicas
+- Orientadas a obtener ganancias
+- Asumen riegos
+- Dirigidas por una filosofia de negocio
+- Deben reconocerse como negocios por otras organizaciones
+- Constituyen una propiedad privada
+- Se evaluan generalmente desde un punto de vista contable
+
+*** Funcionamiento :ATTACH:
+[[attachment:_20220723_201948screenshot.png]]
