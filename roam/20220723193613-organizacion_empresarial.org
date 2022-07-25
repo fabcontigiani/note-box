@@ -3,13 +3,12 @@
 :END:
 #+title: Organización empresarial
 
-* Unidad 1:
-
+* Unidad 1: Organizaciones
 ** Organización
 
 *** Definición
 Las organizaciones son sistemas humanos de cooperación y coordinación
-acoplados de unos *limites* definidos para perseguir metas y objetivos.
+acoplados de unos *límites* definidos para perseguir metas y objetivos.
 
 *** Son reales las organizaciones?
 Una organización es real si tiene poder para influir sobre el
@@ -21,49 +20,49 @@ comportamiento de los individuos.
 3. _Estructura deliberada:_ Se desarrollan /estructuras/
 
 *** Tipos
-- Segun estructura:
-  - Simple
-  - Burocratica
-  - Por proyecto
-- Segun actividades:
-  - Agropecuaria (sector primario)
-  - Constructora
-  - Industrial (sector secundario)
-  - Comercial
-  - Servicios (sector terciario)
-- Segun fines:
-  - Con fines de lucro
-  - Sin fines de lucro
-- Segun ambito geografico:
-  - Domestico
-  - Internacional
-  - Multinacional
-  - Organizaciones sin fronteras
-- Segun tamano:
-  - Grandes
-  - Medianas
-  - Pequenas
-  - Micro
-- Segun adhesion:
-  - Coercitivas
-  - Remunerativas
-  - Normativas
-- Segun forma juridica:
-  - Sociedades colectivas
-  - Sociedades en comandita simple
-  - Sociedades de capital e industria
-  - Sociedades de responsabilidad limitada
-  - Sociedades anonimas
-  - Sociedades en comandita por acciones
-  - Sociedades cooperativas
++ Según estructura:
+  + Simple
+  + Burocratica
+  + Por proyecto
++ Segun actividades:
+  + Agropecuaria (sector primario)
+  + Constructora
+  + Industrial (sector secundario)
+  + Comercial
+  + Servicios (sector terciario)
++ Segun fines:
+  + Con fines de lucro
+  + Sin fines de lucro
++ Segun ambito geografico:
+  + Domestico
+  + Internacional
+  + Multinacional
+  + Organizaciones sin fronteras
++ Segun tamano:
+  + Grandes
+  + Medianas
+  + Pequenas
+  + Micro
++ Segun adhesion:
+  + Coercitivas
+  + Remunerativas
+  + Normativas
++ Segun forma juridica:
+  + Sociedades colectivas
+  + Sociedades en comandita simple
+  + Sociedades de capital e industria
+  + Sociedades de responsabilidad limitada
+  + Sociedades anonimas
+  + Sociedades en comandita por acciones
+  + Sociedades cooperativas
 
-- *Sector primario:* extraccion de materias primas.
-- *Sector secundario:* utilizar recursos obtenidos por el sector primario
++ *Sector primario:* extraccion de materias primas.
++ *Sector secundario:* utilizar recursos obtenidos por el sector primario
 para realizar nuevos productos. Bienes de consumo y bienes de capital.
-- *Sector terciario:* se encarga de objetos intangibles (servicios).
-- *Sector cuaternario:* aspecto intelectual de la economia, investigacion,
++ *Sector terciario:* se encarga de objetos intangibles (servicios).
++ *Sector cuaternario:* aspecto intelectual de la economia, investigacion,
   tecnologia, educacion, etc.
-- *Sector quinario:* legislaciones gubernamentales, funcionarios del gobierno.
++ *Sector quinario:* legislaciones gubernamentales, funcionarios del gobierno.
 
 ** Empresa
 
@@ -73,21 +72,553 @@ y no humanos para alcanzar los objetivos de auto-sostenimiento y de
 lucro mediante la produccion de bienes y servicios.
 
 *** Objetivos
-- Obtener utilidades (ser productivo)
-- Ofrecer precios competitivos
-- Ofrecer productos de calidad
-- Dar trabajo a las personas
-- Servir a la sociedad
-- Permanencia
-- Cuidar la ecologia
++ Obtener utilidades (ser productivo)
++ Ofrecer precios competitivos
++ Ofrecer productos de calidad
++ Dar trabajo a las personas
++ Servir a la sociedad
++ Permanencia
++ Cuidar la ecologia
 
 *** Caracteristicas
-- Orientadas a obtener ganancias
-- Asumen riegos
-- Dirigidas por una filosofia de negocio
-- Deben reconocerse como negocios por otras organizaciones
-- Constituyen una propiedad privada
-- Se evaluan generalmente desde un punto de vista contable
++ Orientadas a obtener ganancias
++ Asumen riegos
++ Dirigidas por una filosofia de negocio
++ Deben reconocerse como negocios por otras organizaciones
++ Constituyen una propiedad privada
++ Se evaluan generalmente desde un punto de vista contable
 
 *** Funcionamiento :ATTACH:
 [[attachment:_20220723_201948screenshot.png]]
+
+** Administración
+La administracion como ciencia o tecnica se centra en el diseno interno
+de la empresa, de sus estructuras, procedimientos y sistemas de informacion
+para planear, organizar, dirigir y controlar sus recursos y procesos.
+
+*** Proceso administrativo
+Es el proceso de disenar y mantener un ambiente en el cual las personas,
+trabajando en grupos, alcanzan con eficiencia metas seleccionadas.
+
+La administracion es la principal actividad que marca una diferencia en
+el grado que las organizaciones les sirven a las persona que afectan.
+
+La administracion se esfuerza por:
++ Desperdiciar pocos recursos (alta eficiencia)
++ Lograr objetivos (alta eficacia)
+
+*** Actividades básicas:
++ Planificación
++ Organización
++ Dirección
++ Control
+
+** Cultura organizacional
+Es el conjunto de normas, hábitos y valores que practican los individuos
+de una organización y que hacen de ésta su forma de comportamiento.
+
+**** Norma
+Todo lo que está escrito y aprobado, que rige a la organización, y que
+debe ser respetado por todos los integrantes de ella. Escrita
+detalladamente en organización y funciones o planes de capacitación.
+
+**** Hábito
+Todo lo que *no* está escrito, pero se acepta como norma en una
+organización.
+
+**** Valor
+Cualidad que tiene una persona que integra una organización.
+
+* Unidad 3: Organización estructural de la empresa
+** Fundamentos estratégicos
+*** Misión:
+Es una afirmación que describe el concepto de la empresa, la naturaleza
+del negocio, la razón para que exista la empresa, la gente a la que le
+sirve y los principios y valores bajo los que pretende funcionar.
+
+*** Visión:
+Es el conjunto de ideas generales que proveen el marco de referencia
+de lo que la unidad de negocio quiere ser en el futuro. Señala el rumbo
+y da dirección. Es una representación de cómo creemos que deba ser el
+futuro para nuestra empresa ante los ojos de clientes, proveedores,
+empleados y propietarios.
+
+*** Valores:
+Representan las convicciones de las personas encargadas de dirigir
+la empresa hacia el éxito.
+Los valores de una organización son las creencias, características y
+normas conductuales que la administración determinó que deben guiar el
+cumplimiento de su vision y misión.
+
+*** Estrategias:
+Abordar la dirección hacia la cual debe dirigirse la organización, su
+fuerza direccionadora y otros factores claves que ayudarán a la
+organización a determinar sus productos, servicios y mercados futuros.
+Es un proceso para la determinación de la dirección en la cual la
+organización debe moverse para cumplir con su misión.
+
+** Planeación
+Significa cambiar mentalidad, no elaborar planes. La planeación empieza
+con el buen manejo del tiempo, con la programación de lo que hacemos todos
+los días y de todas las actividades que realizamos en el puesto de
+trabajo.
+
+*** Planes operacionales: (corto plazo)
+Tareas y actividades para llevar a cabo las operaciones diarias del
+negocio.
+Planes de trabajo dirigidos al logro de las considerando su presupuesto.
+Los planes operacionales deben orientarse en función de los clientes y
+en función de los planes de las áreas.
+
+*** Planes tácticos: (mediano plazo)
+Es la parte del proceso que posibilita transformar en realidad los
+sueños de la organización.
+En él se define con claridad *qué* se desea, *cómo* y *cuándo* se
+realizará y *quién* será el encargado.
+Incluye *metas* con un horizonte de tiempo de 1 año y contempla los
+planes de acción para lograrlas.
+
+*** Planes estratégicos: (largo plazo)
+Se basa en la intuición y el análisis y conduce a la posición.
+Deben ser alcanzables, medibles y retadores.
+Se definen para un horizonte de tiempo de 3 a 5 años.
+Es el cimiento para la toma de decisiones estratégicas.
+Esta fase se enfoca en la naturaleza y dirección del negocio, en los
+principios bajo los que se pretende operar y en la dirección en la que
+se debe avanzar.
+
+** Organización
+_Organizar:_ proceso para ordenar y distribuir el trabajo, la autoridad y
+los recursos entre los miembros de una organización, de tal manera que
+estos puedan alcanzar las metas de la organización.
+
+_La organización:_ estructura de las relaciones que deben existir entre
+las funciones, niveles y actividades de los elementos materiales y
+humanos de un organismo social; lograr su maxima eficiencia dentro de los
+planes y objetivos señalados.
+
+** Estructura como organismo
+Partes de la estructura bajo la óptica de organismo empresarial.
+
+*** Estructura de recursos
+**** Recursos básicos
++ Financieros
++ Físicos
++ Tecnológicos
++ Humanos
+
+**** Recursos avanzados
++ Información
++ Conocimiento
+
+*** Estructura de flujo de comunicaciones
+**** Flujos de información-comunicación
+Conectan a las distintas partes de la organización entre sí, enlazan
+la organización con el entorno y el entorno con la organización.
+
+**** Directrices y procedimientos
+Forman la parte política de la estructura.
+
+**** Criterio de valor
+Conjunto de criterios de valor, explicitados, conocidos y seguidos que
+proporcionan el soporte y dirección de las lineas fundamentales
+de la actuación empresarial.
+
+*** Estructura de aplicaciones
+**** Productos y servicios
+Son la justificación evidente de los medios con los que cuenta la
+empresa para alcanzar sus fines.
+
+**** Realizaciones
+Los productos intermedios. Las experiencias acumuladas.
+
+**** Resultados
+Los beneficios. Los dividendos. La satisfacción de los grupos de
+interés. La imagen.
+
+*** Estructura del comportamiento
++ El clima interno
++ El liderazgo y el poder
++ El estilo de dirección
++ La influencia de la cultura
+
+** Estructura organizativa
+*** Coordinación
+Es el proceso de sincronizar y armonizar las actividades para realizarlas
+con la oportunidad y calidad requeridas. La división del trabajo origina
+el establecimiento de un proceso de coordinación:
++ Coordinación en los puestos de trabajo
++ Coordinación de unidades organizativas
++ Coordinación de organizaciones
+
+*** Especialización :ATTACH:
+[[attachment:_20220724_183408screenshot.png]]
+
+*** Formalización
+Técnica organizacional de prescribir como, cuando, con qué elementos,
+quien y en cuento tiempo se debe realizar las tareas. Las normas,
+instructivos y procedimientos diseñados para manejar las contingencias
+afrontadas por la organización son parte de la llamada formalización.
+
+**** Formalización alta (organización mecánica)
++ La dirección supone que los empleados *no tienen* capacidad para
+  tomar decisiones por si solos.
++ Los empleados carecen de información, conocimiento y habilidades.
++ Entornos estables y ciertos.
++ Organizaciones rígidas.
++ Actividades rutinarias y sencillas.
+
+**** Formalización baja (organización orgánica)
++ La dirección supone que los empleados *tienen* capacidad para tomar
+  decisiones por si solos.
++ Los empleados poseen información, conocimiento y habilidades.
++ Entorno dinámico e incierto.
++ Organización flexible.
+
+** Condicionantes de la estructura
+*** Tecnología
+La complejidad tecnológica tiene una influencia directa en el diseño
+organizativo. Resulta adecuado realizar una descentralización hacia los
+expertos y establecer una estructura orgánica. La estructura
+organizativa debe adecuarse sistemáticamente con el avance tecnológico.
+
+*** Tamaño y edad
+Las estructuras grandes son más complejas y requieren de mayores sistemas
+de control y formalización. Las estructuras pequeñas son mas simples y
+sus orientaciones están en la linea de la flexibilidad. El tamaño y la
+evolución de una organización con el tiempo tiene mucho que ver con las
+etapas de cambio (etapas de crisis).
+
+*** Entorno
++ *Condiciones del entorno:* en un entorno complejo las organizaciones
+  evolucionan hacia una mayor descentralización, pero en entornos simples
+  o inestables las organizaciones evolucionan hacia una mayor
+  descentralización.
++ *Raíces culturales:* las organizaciones tienden a ser centralizadas y
+  de corte mecánico con fuertes jerarquías cuando existe incertidumbre.
++ *Moda:* Existen modas que en un determinado momento se hacen mas
+  habituales en el diseño de estructuras -como es lógico las modas son
+  pasajeras- es fundamental tener en cuenta los principios básicos.
+
+** Organigrama :ATTACH:
+El organigrama es una representación gráfica de la estructura
+organizacional que representa las distintas posiciones de autoridad dentro
+de la organización.
+[[attachment:_20220724_231344screenshot.png]]
+
+*** Cumbre estratégica
++ Gestión de las relaciones de la organización con el entorno
++ Desarrollo de la estrategia de la organización
++ Asignación de recursos
++ Ejercicio del liderazgo y gestión de anomalías
++ Difusión de la información
++ Seguimiento y control del funcionamiento de la organización
+
+*** Línea media
++ Su autonomía varía con su posición en la estructura organizativa
++ Desarrollar estrategias a nivel táctico
++ Recopilar información sobre el rendimiento de su unidad
++ Asumir la toma de decisiones a su nivel
++ Administrar algunos recursos y cumplir algunas reglas
++ Efectuar algunas relaciones con el entorno basándose en su campo
+  de especialización
+
+*** Núcleo operativo
++ Transformar los factores en los productos o servicios finales
++ Asegurar la captación de los factores necesarios para la producción
++ Distribución de los productos y servicios
++ Asegurar las actividades necesarias para la correcta realización de
+  las funciones anteriores
+
+*** Tecnoestructura
++ Apoyo a las actividades de diseño, planeación, adaptación y
+  entrenamiento
+
+*** Staff de apoyo
++ Suministrar apoyo a la organización fuera de la corriente del trabajo
+  operativo
+
+** Modelos de organización
+*** Especialización funcional :ATTACH:
+[[attachment:_20220725_000735screenshot.png]]
++ Ventajas:
+  + Se atienden las funciones que resultan esenciales.
+  + Es mas fácil captar gente formada.
+  + Permite el control.
+  + Es posible alcanzar mayor nivel de conocimiento.
+  + Favorece la realización de productos de calidad superior.
++ Desventajas:
+  + Dificultades para conseguir la coordinación entre las partes.
+  + Mayor lealtad hacia las funciones que hacia la empresa.
+  + Solo el director general tiene una visión general de los resultados.
+  + Dificultades cuando el entorno es inestable.
+
+
+*** Especialización por producto :ATTACH:
+[[attachment:_20220725_001125screenshot.png]]
+Es recomendable:
++ Cuando resulta muy importante la atención del producto-mercado.
++ La empresa se encuentra en un entorno en el que la innovación del
+  producto es muy relevante.
+
+No es recomendable:
++ La gama de productos es muy pequeña.
++ La especialización en las funciones resulta importante.
++ El entorno resulta estable, sin grandes cambios en los ciclos de vida
+  de los productos.
+
+*** Especialización por área geográfica :ATTACH:
+[[attachment:_20220725_002359screenshot.png]]
+Ventajas:
++ Los responsables de cada área tienen la percepción de que manejan una
+  única unidad de negocio, con lo cuál se piensa en el éxito territorial.
+
+Desventajas:
++ Visión excesivamente local cuando la orientación de la organización
+  suele ser global.
++ Cuando el territorio no suele implicar un segmento de interés.
++ Duplicación del personal y recursos en algunas áreas.
+
+*** Especialización por mercado-clientes :ATTACH:
+[[attachment:_20220725_004355screenshot.png]]
+Ventajas:
++ Mayor conocimiento de las necesidades específicas de los clientes.
++ El cliente siente que hay alguien que lo contempla y satisface sus
+  necesidades.
+
+Desventajas:
++ Convencimiento de que se conocen todas las necesidades de los
+  clientes.
++ Duplicación de personal y recursos.
+
+*** Especialización por procesos :ATTACH:
+[[attachment:_20220725_004655screenshot.png]]
+Ventajas:
++ Mayor conocimiento especialización en una determinada actividad.
++ Uso del personal con habilidades determinadas.
++ Mayor control por parte de la alta dirección.
+
+Desventajas:
++ Pérdida de la visión global.
++ La coordinación puede tener que pasar a niveles superiores para su
+  resolución.
+
+*** Organización matricial :ATTACH:
+[[attachment:_20220725_005144screenshot.png]]
+Ventajas:
++ Asignación de responsabilidad por las utilidades a un nivel inferior.
++ Rápida respuesta a los cambios del entorno y tecnológicos.
++ Se aprovechan los especialistas.
+
+Desventajas:
++ Pérdida de tiempo para la coordinación entre los directivos.
++ Conflicto cuando los recursos son escasos.
++ Excesivo formalismo.
++ Doble autoridad.
+
+** Principios de la organización formal
+La *división del trabajo* consiste en descomponer una tarea compleja en sus
+componentes, de tal forma que las personas sean responsables de una serie
+limitada de actividades, en lugar de la tarea general. Esta
+especialización del trabajo puede acarrear ciertos riesgos cuando la tarea
+se divide en pequeños pasos y el trabajador se hace responsable de un solo
+paso produciendo enajenación y aburrimiento.
+
+La *departamentalización* consiste en agrupar las actividades laborales
+que son similares o tienen una relación lógica para estar juntas.
+
+La *jerarquización* establece un patrón de diversos niveles de la
+estructura de una organización.
++ Jerarquía alta
++ Jerarquía plana
+
+La *cadena de mando* es una línea ininterrumpida de autoridad que se
+extiende desde la parte superior de la organización hasta los niveles
+inferiores y aclara quien debe reportarse con quien.
+
+La *autoridad* consiste en el derecho de mandar y en el poder de hacer
+obedecer. Es de naturaleza subjetiva y está vinculado con las cualidades
+personales del jefe.
+
+La *delegación de autoridad* es la transferencia de autoridad a los
+niveles inferiores dentro de la organización.
+
+** Centralización y descentralización
+*** Centralización
++ Entorno estable.
++ Épocas de crisis o existe el riesgo al fracaso de la empresa.
++ Gerentes de niveles inferiores con escaso conocimiento global y de los
+  objetivos de la organización.
++ Las decisiones por tomar son trascendentales para la organización.
+
+*** Descentralización
++ Entorno complejo y dinámico.
++ Gerente de niveles bajos son capaces y tienen experiencia en la toma
+  de decisiones.
++ Las decisiones son relativamente secundarias.
++ La cultura corporativa está abierta para permitir a los gerentes que
+  hagan oír su voz acerca de lo que sucede.
+
+* Unidad 4: Gestión empresarial
+Considerada actualmente como todas aquellas actividades realizadas en un
+contexto de permanente incertidumbre, tendientes a mejorar la productividad
+y competitividad de una empresa, para ello hay que replantearse la
+administración, la organización y el funcionamiento de la empresa.
+
+** Funciones de un director
+
+* Unidad 8: Administración estratégica
+La *administración estratégica* es un proceso de evaluación sistemática de
+un negocio y define los objetivos a largo plazo, identifica metas y
+objetivos, desarrolla estrategias para alcanzar estos y localiza recursos
+para realizarlos.
+
+La *planificación estratégica* es un proceso sistemático de desarrollo e
+implementación de planes para alcanzar propósitos u objetivos.
+
+La formulación de estrategias hace referencia a considerar, desarrollar y
+evaluar las diferentes opciones o alternativas estratégicas de que se
+disponen en base a dar respuesta a las numerosas presiones, metas e
+influencias identificadas en el análisis estratégico.
+
+La dirección estratégica es el proceso de formulación de estrategias para el
+desarrollo de la organización, buscando obtener una mayor participación en
+el mercado (competitividad estratégica) y rendimientos superiores al
+promedio.
+
+** Niveles de planeamiento
+*** Planeamiento estratégico
+**** Análisis del ambiente externo
+***** Análisis PESTEL
+Es un análisis descriptivo del contexto de la empresa, todos aquellos
+elementos externos que son de gran importancia para la organización.
++ Factores políticos
++ Factores económicos
++ Factores sociales
++ Factores tecnológicos
++ Factores ecológicos
++ Factores legales
+
+***** Modelo de 5 fuerzas de Porter
+Es un modelo de análisis estratégico elaborado por Michael Porter en
+el año 1979. Establece un marco para analizar el nivel de competencia
+dentro de la industria de una empresa, definiendo la interacción y el
+peso de las cinco fuerzas que modelan su medio, para poder
+desarrollar una estrategia de negocio.
+Este análisis deriva en la respectiva articulación de las 5 fuerzas
+que determinan la intensidad de competencia y rivalidad en una
+industria, y por lo tanto, en cuan atractiva es esta industria en
+relación a oportunidades de inversión y rentabilidad.
++ Rivalidad entre competidores
++ Amenaza de productos sustitutos
++ Amenaza de nuevos competidores
++ Poder de negociación de proveedores o vendedores
++ Poder de negociación de clientes o compradores
+
+**** Análisis del ambiente interno
+***** Cadena de valor :ATTACH:
+Modelo teórico que permite describir el desarrollo de las actividades
+de una organización generando valor al producto final.
+[[attachment:_20220725_192047screenshot.png]]
+
+En este concepto en el que a raíz de las actividades de una empresa
+se crea una serie de relaciones o eslabones que tienen como objetivo
+aportar el mayor valor y es vista como una herramienta estratégica
+de análisis para identificar las ventajas competitivas de un negocio
+frente al mercado.
+
+Este concepto analiza las diferentes actividades o departamentos de
+la empresa comparándolas a las de las competencia, dando así
+información muy valiosa sobre la posición que ocupa el negocio en el
+mercado y la estrategia que debería seguir a nivel de procesos
+internos y externos.
+
+El concepto de /margen/ es una idea global más cualitativa que
+cuantitativa; se trata de la diferencia entre el valor total
+generado, y el costo en generar dicho valor total.
+
+****** Actividades de valor primarias
++ Logística interna
++ Operaciones
++ Logística externa
++ Marketing y ventas
++ Pos-venta
+
+****** Actividades de apoyo
++ Infraestructura
++ Gestión de RRHH
++ Tecnología
++ Abastecimiento
+
+***** Matriz DAFO
+Técnica de análisis y planeación estratégica que permite crear o
+reajustar a una estrategia, ya sea de negocios, mercadotecnia,
+comunicación, etc. Permite visualizar la situación actual de una
+empresa u organización; para obtener un diagnóstico preciso que
+permita tomar decisiones.
+
+Con ella se identifican y evalúan los factores positivos y negativos
+del macro (medio externo) y micro-ambiente (medio interno), los
+cuales permitirán a la organización hacer un análisis estratégico de
+su situación frente a las exigencias del medio.
+
++ Debilidades: Carencias y limitaciones desfavorable propias
++ Amenazas: Factores externos desfavorables
++ Fortalezas: Características y habilidades favorables propias
++ Oportunidades: Factores externos favorables
+
+*** Planeamiento táctico
+Mientras que la planificación estratégica es el punto de partida de todo
+plan empresarial, visión del futuro de la organización, estructurada a
+partir de los factores externos e internos, donde se definen los
+valores, visión y misión de la organización con vista a 5 o 10 años
+(largo plazo) con implicaciones a toda la organización, la planificación
+táctica tiene un alcance más limitado a nivel departamental y a veces
+involucrando sólo un proceso de punta a punta.
+
+En la planificación táctica se crean metas y condiciones para que las
+acciones establecidas en la planificación estratégica sean alcanzadas
+asignando los recursos comprometidos por el nivel de planeamiento
+superior en esta, que generalmente abarcan un período de 1 a 3 años
+midiendo acciones para un futuro más cercano (medio-corto plazo).
+
+Un plan táctico será funcional para el área específica para la cual fue
+creada, ya que en él se desarrollan conceptos como inversiones,
+capacidad de fabricación, nivel de servicio o recursos humanos
+involucrados con los cuales se responderán preguntas como:
++ Qué se hará?
++ Por qué se hará?
++ Dónde se hará?
++ Cuándo se hará?
++ Quién lo hará?
++ Cuánto costará?
+
+*** Planeamiento operativo
+La planificación operacional es de donde salen las acciones y metas
+trazadas por el nivel táctico para alcanzar los objetivos de las
+decisiones estratégicas. En este nivel de planificación los involucrados
+son aquellos que ejecutan las acciones que se aplican a corto plazo,
+generalmente en el período de 3 a 6 meses.
+
+**** Diagrama de Gantt :ATTACH:
+Diagrama inventado por Henry Gantt en 1917, es una herramienta que
+permite al usuario modelar la planificación de las tareas necesarias
+para la realización de un proyecto.
+[[attachment:_20220725_195141screenshot.png]]
+
+**** Diagrama de carga :ATTACH:
+Primeramente se definen los criterios de clasificación de las cargas
+de trabajo (procesos, operarios, sectores, maquinaria, etc.) y a
+partir de los tiempos contenidos en el presupuesto o pedido de cliente
+u otro origen de la información se cargan las cargas según el criterio
+establecido por orden, proceso, operario, fechas y prioridades, con
+opción a realizar cualquier tipo de re-planificación futura.
+[[attachment:_20220725_195329screenshot.png]]
+
+**** Diagrama PERT :ATTACH:
+Este diagrama PERT (Técnica de Revisión y Evaluación de Programas, por
+sus siglas en inglés) permite la estimación temporal y secuencial de
+un proyecto, sus etapas y tareas mediante una sencilla representación
+gráfica que se compone de un conjunto de puntos (nodos) conectados por
+flechas.
+[[attachment:_20220725_195620screenshot.png]]
