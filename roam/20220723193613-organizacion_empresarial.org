@@ -14,62 +14,62 @@ acoplados de unos *límites* definidos para perseguir metas y objetivos.
 Una organización es real si tiene poder para influir sobre el
 comportamiento de los individuos.
 
-*** Caracteristicas
-1. _Proposito distintivo:_ metas o conjunto de metas
+*** Características
+1. _Propósito distintivo:_ metas o conjunto de metas
 2. _Personas:_ Varias personas para realizar el trabajo necesario
 3. _Estructura deliberada:_ Se desarrollan /estructuras/
 
 *** Tipos
 + Según estructura:
   + Simple
-  + Burocratica
+  + Burocrática
   + Por proyecto
-+ Segun actividades:
++ Según actividades:
   + Agropecuaria (sector primario)
   + Constructora
   + Industrial (sector secundario)
   + Comercial
   + Servicios (sector terciario)
-+ Segun fines:
++ Según fines:
   + Con fines de lucro
   + Sin fines de lucro
-+ Segun ambito geografico:
-  + Domestico
++ Según ámbito geográfico:
+  + Doméstico
   + Internacional
   + Multinacional
   + Organizaciones sin fronteras
-+ Segun tamano:
++ Según tamaño:
   + Grandes
   + Medianas
-  + Pequenas
+  + Pequeñas
   + Micro
-+ Segun adhesion:
++ Según adhesión:
   + Coercitivas
   + Remunerativas
   + Normativas
-+ Segun forma juridica:
++ Según forma jurídica:
   + Sociedades colectivas
   + Sociedades en comandita simple
   + Sociedades de capital e industria
   + Sociedades de responsabilidad limitada
-  + Sociedades anonimas
+  + Sociedades anónimas
   + Sociedades en comandita por acciones
   + Sociedades cooperativas
 
-+ *Sector primario:* extraccion de materias primas.
++ *Sector primario:* extracción de materias primas.
 + *Sector secundario:* utilizar recursos obtenidos por el sector primario
 para realizar nuevos productos. Bienes de consumo y bienes de capital.
 + *Sector terciario:* se encarga de objetos intangibles (servicios).
-+ *Sector cuaternario:* aspecto intelectual de la economia, investigacion,
-  tecnologia, educacion, etc.
++ *Sector cuaternario:* aspecto intelectual de la economía, investigación,
+  tecnología, educación, etc.
 + *Sector quinario:* legislaciones gubernamentales, funcionarios del gobierno.
 
 ** Empresa
 
-*** Definicion
-Es todo proposito humano que busca reunir e integrar recursos humanos
+*** Definición
+Es todo propósito humano que busca reunir e integrar recursos humanos
 y no humanos para alcanzar los objetivos de auto-sostenimiento y de
-lucro mediante la produccion de bienes y servicios.
+lucro mediante la producción de bienes y servicios.
 
 *** Objetivos
 + Obtener utilidades (ser productivo)
@@ -78,32 +78,32 @@ lucro mediante la produccion de bienes y servicios.
 + Dar trabajo a las personas
 + Servir a la sociedad
 + Permanencia
-+ Cuidar la ecologia
++ Cuidar la ecología
 
-*** Caracteristicas
+*** Características
 + Orientadas a obtener ganancias
 + Asumen riegos
-+ Dirigidas por una filosofia de negocio
++ Dirigidas por una filosofía de negocio
 + Deben reconocerse como negocios por otras organizaciones
 + Constituyen una propiedad privada
-+ Se evaluan generalmente desde un punto de vista contable
++ Se evalúan generalmente desde un punto de vista contable
 
 *** Funcionamiento :ATTACH:
 [[attachment:_20220723_201948screenshot.png]]
 
 ** Administración
-La administracion como ciencia o tecnica se centra en el diseno interno
-de la empresa, de sus estructuras, procedimientos y sistemas de informacion
+La administración como ciencia o técnica se centra en el diseño interno
+de la empresa, de sus estructuras, procedimientos y sistemas de información
 para planear, organizar, dirigir y controlar sus recursos y procesos.
 
 *** Proceso administrativo
-Es el proceso de disenar y mantener un ambiente en el cual las personas,
+Es el proceso de diseñar y mantener un ambiente en el cual las personas,
 trabajando en grupos, alcanzan con eficiencia metas seleccionadas.
 
-La administracion es la principal actividad que marca una diferencia en
-el grado que las organizaciones les sirven a las persona que afectan.
+La administración es la principal actividad que marca una diferencia en
+el grado que las organizaciones les sirven a las personas que afectan.
 
-La administracion se esfuerza por:
+La administración se esfuerza por:
 + Desperdiciar pocos recursos (alta eficiencia)
 + Lograr objetivos (alta eficacia)
 
@@ -115,7 +115,7 @@ La administracion se esfuerza por:
 
 ** Cultura organizacional
 Es el conjunto de normas, hábitos y valores que practican los individuos
-de una organización y que hacen de ésta su forma de comportamiento.
+de una organización y que hacen de esta su forma de comportamiento.
 
 **** Norma
 Todo lo que está escrito y aprobado, que rige a la organización, y que
@@ -148,7 +148,7 @@ Representan las convicciones de las personas encargadas de dirigir
 la empresa hacia el éxito.
 Los valores de una organización son las creencias, características y
 normas conductuales que la administración determinó que deben guiar el
-cumplimiento de su vision y misión.
+cumplimiento de su visión y misión.
 
 *** Estrategias:
 Abordar la dirección hacia la cual debe dirigirse la organización, su
@@ -194,7 +194,7 @@ estos puedan alcanzar las metas de la organización.
 
 _La organización:_ estructura de las relaciones que deben existir entre
 las funciones, niveles y actividades de los elementos materiales y
-humanos de un organismo social; lograr su maxima eficiencia dentro de los
+humanos de un organismo social; lograr su máxima eficiencia dentro de los
 planes y objetivos señalados.
 
 ** Estructura como organismo
@@ -221,7 +221,7 @@ Forman la parte política de la estructura.
 
 **** Criterio de valor
 Conjunto de criterios de valor, explicitados, conocidos y seguidos que
-proporcionan el soporte y dirección de las lineas fundamentales
+proporcionan el soporte y dirección de las líneas fundamentales
 de la actuación empresarial.
 
 *** Estructura de aplicaciones
@@ -284,8 +284,8 @@ organizativa debe adecuarse sistemáticamente con el avance tecnológico.
 
 *** Tamaño y edad
 Las estructuras grandes son más complejas y requieren de mayores sistemas
-de control y formalización. Las estructuras pequeñas son mas simples y
-sus orientaciones están en la linea de la flexibilidad. El tamaño y la
+de control y formalización. Las estructuras pequeñas son más simples y
+sus orientaciones están en la línea de la flexibilidad. El tamaño y la
 evolución de una organización con el tiempo tiene mucho que ver con las
 etapas de cambio (etapas de crisis).
 
@@ -296,7 +296,7 @@ etapas de cambio (etapas de crisis).
   centralización.
 + *Raíces culturales:* las organizaciones tienden a ser centralizadas y
   de corte mecánico con fuertes jerarquías cuando existe incertidumbre.
-+ *Moda:* Existen modas que en un determinado momento se hacen mas
++ *Moda:* Existen modas que en un determinado momento se hacen más
   habituales en el diseño de estructuras -como es lógico las modas son
   pasajeras- es fundamental tener en cuenta los principios básicos.
 
@@ -343,7 +343,7 @@ de la organización.
 [[attachment:_20220725_000735screenshot.png]]
 + Ventajas:
   + Se atienden las funciones que resultan esenciales.
-  + Es mas fácil captar gente formada.
+  + Es más fácil captar gente formada.
   + Permite el control.
   + Es posible alcanzar mayor nivel de conocimiento.
   + Favorece la realización de productos de calidad superior.
@@ -371,7 +371,7 @@ No es recomendable:
 [[attachment:_20220725_002359screenshot.png]]
 Ventajas:
 + Los responsables de cada área tienen la percepción de que manejan una
-  única unidad de negocio, con lo cuál se piensa en el éxito territorial.
+  única unidad de negocio, con lo cual se piensa en el éxito territorial.
 
 Desventajas:
 + Visión excesivamente local cuando la orientación de la organización
@@ -555,8 +555,8 @@ repiten con el tiempo que usualmente se toman en el nivel operativo.
 ** Condiciones para la toma de decisiones
 Las condiciones en las que se toman las decisiones pueden clasificarse en
 términos generales como certeza o certidumbre, incertidumbre y riesgo.
-Prácticamente todas las decisiones se toman en un ambiente de cierta
-incertidumbre pero sin embargo, el grado varía de una certeza relativa a
+Prácticamente, todas las decisiones se toman en un ambiente de cierta
+incertidumbre pero, sin embargo, el grado varía de una certeza relativa a
 una gran incertidumbre.
 
 ** La participación en la toma de decisiones
@@ -593,7 +593,7 @@ empresa.
 
 ** Actividades del control
 + Medir y corregir la actividad empresarial para adaptarse a los objetivos.
-+ Cambiar los objetivos y planes si éstos no se adaptan a la realidad del
++ Cambiar los objetivos y planes si estos no se adaptan a la realidad del
   negocio.
 
 ** El control en el proceso administrativo
@@ -762,7 +762,7 @@ peso de las cinco fuerzas que modelan su medio, para poder
 desarrollar una estrategia de negocio.
 Este análisis deriva en la respectiva articulación de las 5 fuerzas
 que determinan la intensidad de competencia y rivalidad en una
-industria, y por lo tanto, en cuan atractiva es esta industria en
+industria y, por lo tanto, en cuan atractiva es esta industria en
 relación a oportunidades de inversión y rentabilidad.
 + Rivalidad entre competidores
 + Amenaza de productos sustitutos
@@ -783,7 +783,7 @@ de análisis para identificar las ventajas competitivas de un negocio
 frente al mercado.
 
 Este concepto analiza las diferentes actividades o departamentos de
-la empresa comparándolas a las de las competencia, dando así
+la empresa comparándolas a las de la competencia, dando así
 información muy valiosa sobre la posición que ocupa el negocio en el
 mercado y la estrategia que debería seguir a nivel de procesos
 internos y externos.
@@ -797,7 +797,7 @@ generado, y el costo en generar dicho valor total.
 + Operaciones
 + Logística externa
 + Marketing y ventas
-+ Pos-venta
++ Posventa
 
 ****** Actividades de apoyo
 + Infraestructura
@@ -817,7 +817,7 @@ del macro (medio externo) y micro-ambiente (medio interno), los
 cuales permitirán a la organización hacer un análisis estratégico de
 su situación frente a las exigencias del medio.
 
-+ Debilidades: Carencias y limitaciones desfavorable propias
++ Debilidades: Carencias y limitaciones desfavorables propias
 + Amenazas: Factores externos desfavorables
 + Fortalezas: Características y habilidades favorables propias
 + Oportunidades: Factores externos favorables
@@ -829,7 +829,7 @@ partir de los factores externos e internos, donde se definen los
 valores, visión y misión de la organización con vista a 5 o 10 años
 (largo plazo) con implicaciones a toda la organización, la planificación
 táctica tiene un alcance más limitado a nivel departamental y a veces
-involucrando sólo un proceso de punta a punta.
+involucrando solo un proceso de punta a punta.
 
 En la planificación táctica se crean metas y condiciones para que las
 acciones establecidas en la planificación estratégica sean alcanzadas
@@ -862,12 +862,12 @@ para la realización de un proyecto.
 [[attachment:_20220725_195141screenshot.png]]
 
 **** Diagrama de carga :ATTACH:
-Primeramente se definen los criterios de clasificación de las cargas
+Primeramente, se definen los criterios de clasificación de las cargas
 de trabajo (procesos, operarios, sectores, maquinaria, etc.) y a
 partir de los tiempos contenidos en el presupuesto o pedido de cliente
 u otro origen de la información se cargan las cargas según el criterio
 establecido por orden, proceso, operario, fechas y prioridades, con
-opción a realizar cualquier tipo de re-planificación futura.
+opción a realizar cualquier tipo de replanificación futura.
 [[attachment:_20220725_195329screenshot.png]]
 
 **** Diagrama PERT :ATTACH:
