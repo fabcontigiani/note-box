@@ -293,7 +293,7 @@ etapas de cambio (etapas de crisis).
 + *Condiciones del entorno:* en un entorno complejo las organizaciones
   evolucionan hacia una mayor descentralización, pero en entornos simples
   o inestables las organizaciones evolucionan hacia una mayor
-  descentralización.
+  centralización.
 + *Raíces culturales:* las organizaciones tienden a ser centralizadas y
   de corte mecánico con fuertes jerarquías cuando existe incertidumbre.
 + *Moda:* Existen modas que en un determinado momento se hacen mas
