@@ -467,6 +467,120 @@ administración, la organización y el funcionamiento de la empresa.
 
 ** Funciones de un director
 
+
+* Unidad 6: La toma de decisión
+** Qué es una toma de decisión?
+Es una selección que se asume entre dos o más alternativas. Es un proceso
+para identificar y seleccionar un curso de acción para resolver un problema
+específico.
+
+** Cuándo se toma una decisión
+1. Insatisfacción con la situación actual
+2. Motivación suficiente para actuar
+3. Certeza anticipada en la capacidad para cambiar la situación
+4. Alteración de la situación actual
+
+** Proceso información-decisión-acción
+Con la información necesaria tomamos una decisión que impulsa a una acción
+y la acción generará una nueva información y habrá una retroalimentación
+del proceso donde se vuelve a iniciar el proceso de la toma de decisiones.
+
+** Racionalidad
+*** Decisiones bajo la racionalidad
+Se refiere a opciones que son consistentes e intentan maximizar los
+valores dentro de una serie de restricciones específicas.
+
+*** Racionalidad limitada
+Comportamiento que es racional dentro de los parámetros de un modelo
+simplificado en el cual se han captado características esenciales de un
+problema.
+
+*** Decisiones intuitivas
+Proceso inconsciente por el cual se toma decisiones a partir de la
+experiencia y el juicio personal acumulado.
+
+** Modelos de toma de decisiones
+El curso de acción dentro de cualquier proceso de toma de decisiones
+varía con la definición del problema, las personas involucradas, las
+circunstancias y el entorno, por ello los modelos de toma de decisiones
+sirven como herramientas para la identificación del problema, análisis de
+la disponibilidad de alternativas y la definición de decisiones
+estratégicas.
+
++ Modelo racional
+  1. Investigar la situación
+  2. Desarrollar alternativas
+  3. Evaluar alternativas y elegir la mejor de ellas
+  4. Implantar la decisión y monitorearla
++ Modelo de racionalidad limitada o satisfacción
++ Modelo intuitivo
++ Modelo psicológico o cognitivo
+
+** Detección de problemas y oportunidades
+*** Por qué secuencial
+Su objetivo es buscar información útil acerca de los problemas de modo
+sistemático, analizar sus causas y desarrollar preguntas que obliguen a
+idear soluciones creativas para los mismos.
+
+*** Matriz DAFO
+
+*** Análisis de campo de fuerzas
+Es una herramienta que es utilizada para ayudar a facilitar el cambio. El
+análisis del campo de fuerzas ve el cambio como fuerzas diferentes que
+compiten entre sí.
++ Fuerzas impulsoras o /driving forces/: facilitan el cambio
++ Fuerzas restrictivas o /restraiing forces/: evitan el cambio
+Esta herramienta se enfoca en la identificación de estas fuerzas y en
+relacionarlas con el cambio potencial.
+
+*** Diagrama de causa-efecto :ATTACH:
+Es una representación gráfica de las relaciones lógicas que existen entre
+las causas que producen el efecto definido. Permite visualizar, en una
+sola figura, todas la causas asociadas a una disfunción y sus posibles
+relaciones y permite analizar el encadenamiento de los acontecimientos.
+
+[[attachment:_20220726_020453screenshot.png]]
+
+** Naturaleza de la toma de decisiones gerenciales
+*** Por su importancia:
+**** Estratégicas
+Son las que orientan el rumbo de la organización y se refieren a los
+objetivos organizacionales, afectan a toda la organización.
+
+**** Tácticas
+Son las que se toman sobre cómo instrumentar actividades para cumplir
+con los objetivos estratégicos.
+
+*** Por su estandarización:
+**** No programadas
+Son las que enfrentan situaciones nuevas, imprevistas y de gran
+importancia que suelen ser tomadas en el nivel superior de la
+estructura organizativa.
+
+**** Programadas
+Son las decisiones que enfrentan situaciones rutinarias, que se
+repiten con el tiempo que usualmente se toman en el nivel operativo.
+
+*** Por su estructuración
+**** Bien estructurados
++ Pocos decidores
++ Alternativas limitadas
++ Resultados certeros
++ Probabilidades calculables
+**** Moderadamente estructurados
++ Resultados y probabilidades no calculables
+**** Mal estructurados
++ Muchos decidores
++ Muchas alternativas
++ Resultados con precisión desconocida
++ Probabilidades desconocidas
++ Objetivos ambiguos o desconocidos
+
+** Condiciones para la toma de decisiones
+** Herramientas para la toma de decisiones
+** La participación en la toma de decisiones
+** Sistemas de apoyo en la toma de decisiones
+
 * Unidad 8: Administración estratégica
 La *administración estratégica* es un proceso de evaluación sistemática de
 un negocio y define los objetivos a largo plazo, identifica metas y
