@@ -459,15 +459,6 @@ niveles inferiores dentro de la organización.
 + La cultura corporativa está abierta para permitir a los gerentes que
   hagan oír su voz acerca de lo que sucede.
 
-* Unidad 4: Gestión empresarial
-Considerada actualmente como todas aquellas actividades realizadas en un
-contexto de permanente incertidumbre, tendientes a mejorar la productividad
-y competitividad de una empresa, para ello hay que replantearse la
-administración, la organización y el funcionamiento de la empresa.
-
-** Funciones de un director
-
-
 * Unidad 6: La toma de decisión
 ** Qué es una toma de decisión?
 Es una selección que se asume entre dos o más alternativas. Es un proceso
@@ -551,7 +542,7 @@ objetivos organizacionales, afectan a toda la organización.
 Son las que se toman sobre cómo instrumentar actividades para cumplir
 con los objetivos estratégicos.
 
-*** Por su estandarización:
+*** Por su estructuración:
 **** No programadas
 Son las que enfrentan situaciones nuevas, imprevistas y de gran
 importancia que suelen ser tomadas en el nivel superior de la
@@ -561,25 +552,175 @@ estructura organizativa.
 Son las decisiones que enfrentan situaciones rutinarias, que se
 repiten con el tiempo que usualmente se toman en el nivel operativo.
 
-*** Por su estructuración
-**** Bien estructurados
-+ Pocos decidores
-+ Alternativas limitadas
-+ Resultados certeros
-+ Probabilidades calculables
-**** Moderadamente estructurados
-+ Resultados y probabilidades no calculables
-**** Mal estructurados
-+ Muchos decidores
-+ Muchas alternativas
-+ Resultados con precisión desconocida
-+ Probabilidades desconocidas
-+ Objetivos ambiguos o desconocidos
-
 ** Condiciones para la toma de decisiones
-** Herramientas para la toma de decisiones
+Las condiciones en las que se toman las decisiones pueden clasificarse en
+términos generales como certeza o certidumbre, incertidumbre y riesgo.
+Prácticamente todas las decisiones se toman en un ambiente de cierta
+incertidumbre pero sin embargo, el grado varía de una certeza relativa a
+una gran incertidumbre.
+
 ** La participación en la toma de decisiones
+La participación en la toma de decisiones puede mejorar la calidad y la
+aceptación de las decisiones, fomenta la motivación y la autoestima de los
+trabajadores y mejora las relaciones interpersonales con los empleados.
+
+*** Modelo de liderazgo participativo de Vroom y Yetton :ATTACH:
+Modelo normativo que proporciona un conjunto secuencial de reglas
+que pretenden determinar la forma y cantidad de participación en la toma
+de decisión, dependiendo de situación y la tarea.
+[[attachment:_20220726_111910screenshot.png]]
+
+*** Método 466 de Carreño Gomariz :ATTACH:
+Es una herramienta práctica que permite a un líder determinar el
+nivel de participación en la decisión de su equipo de colaboradores
+directos.
+[[attachment:_20220726_112009screenshot.png]]
+
 ** Sistemas de apoyo en la toma de decisiones
+Un Sistema de Apoyo a las Decisiones (DSS por sus siglas en inglés
+Decision Support System), es un sistema informático que sustenta el
+proceso de toma de decisiones, lo cual implica la utilización de datos y
+modelos para la generación, la estimación, la evaluación y/o la
+comparación sistemática de alternativas, ayudando a los responsables de la
+toma de decisión a reunir inteligencia, generar opciones y tomar
+decisiones.
+
+* Unidad 7: Control de gestión
+** Qué es el control?
+Consiste en la medición y corrección de las actividades empresariales a
+fin de asegurar el logro de los objetivos y desarrollo de los planes de la
+empresa.
+
+** Actividades del control
++ Medir y corregir la actividad empresarial para adaptarse a los objetivos.
++ Cambiar los objetivos y planes si éstos no se adaptan a la realidad del
+  negocio.
+
+** El control en el proceso administrativo
+El control en el proceso administrativo representa la evaluación y
+medición de la ejecución de los planes, con el fin de detectar y prever
+desviaciones para establecer las medidas correctivas necesarias. Las
+organizaciones deben tener control administrativo para garantizar su
+correcto funcionamiento y eficiencia.
+
+** El proceso de control
++ Establecer normas y métodos para medir el desempeño
++ Medir el desempeño
++ Tomar medidas correctivas y volver a evaluar
++ Retroalimentación
+
+*** Control estratégico
+Se encarga de medir la relación con el mercado, con la competencia, con
+el entorno económico y los potenciales de la organización.
+Se centra en los aspectos ligados a la adaptación al entorno,
+comercialización, mercados, recursos productivos, tecnología, recursos
+financieros, etc.
+
+*** Control táctico
+Se ocupa del control de relaciones entre funciones, de procesos, de
+resultados de cada función y el control de asignación de recursos.
+Se basa en la realización de presupuestos, planificación presupuestaria
+a corto plazo (menos de un año), intenta asegurar que cada departamento
+de la empresa en forma individual logren sus objetivos.
+
+*** Control operativo
+En este nivel de control las funciones son las relacionadas con la
+ejecución de las tareas, rentabilidad, control financiero y la
+eficiencia.
+Dirige su acción hacia la planificación operativa, es decir, que asegura
+que las tareas realizadas en cada puesto de trabajo día a día se
+realicen correctamente.
+
+** Tipos de control
+*** Control preventivo
+Orientados a prevenir desviaciones.
+
+*** Control concurrente
+Se realiza al mismo tiempo que la actividad que se controla.
+
+*** Control correctivo
+Se basa en el principio de retroalimentación. Las correcciones ocurren
+luego de que se haya ejecutado la actividad.
+
+** Puntos críticos
+Puntos de un sistema en los que se deben vigilar o recopilar información.
+
+*** Estándares físicos
++ Unidades a producir
++ Cantidad de materiales
+
+*** Estándares de actividad
++ Ingresos
++ Costos
++ Gastos
+
+*** Estándares de inversión-financiación
++ Activos
++ Inversión
+
+*** Estándares de resultados
++ Beneficios
++ Rentabilidad
+
+*** Estándares intangibles
++ Innovación de productos
++ La colaboración de los empleados
++ Satisfacción de los clientes
+
+** Áreas clave
+Aspectos de una unidad que deben funcionar en forma eficaz para alcanzar
+el éxito.
+
+*** Centros de responsabilidad
+**** Centros de ingresos
+Relacionado con la actividad de ventas
+
+**** Centros de costos
+Relacionado con el circuito que sigue el producto hasta su venta
+(abastecimiento, fabricación y distribución).
+
+**** Centros de gastos
+Relacionado con aquellos elementos de la estructura no relacionados
+directamente con la generación de un bien o servicios.
+
+**** Centros de beneficios
+Engloba a los centros de ingresos, costos y/o gastos.
+
+**** Centros de inversión
+Engloban dentro de una noción más amplia a los centros de beneficios y
+son susceptibles de realizar inversiones.
+
+** Diseño de un sistema de control
+*** Qué es un indicador?
+Son unidades de medición que permiten evaluar el rendimiento de los
+procesos internos de la organización.
+En la medición del desempeño, los indicadores pueden servir para:
++ Proporcionan la base para supervisar y evaluar la iniciativa.
++ Definen metas que nos permiten conocer en qué medida se cumplen con
+  los objetivos.
++ Establecen una relación entre dos o más variables.
++ Pueden cubrir aspectos cualitativos o cuantitativos.
++ Entregan información cuantitativa.
++ Deben ser acordados con los involucrados.
+
+*** Construcción de un indicador
+Definir las variables que van a componer el indicador, la relación que
+tendrán entre sí y con ello la forma de cálculo. Dicha relación estará
+dada por el tipo de información que se desea obtener. Así, un indicador
+puede ser:
++ Absoluto
++ Razón
++ Tasa
++ Proporción
++ Variación
+
+*** Características de un buen indicador
++ Objetivo
++ Medible objetivamente
+  + Relevante
+  + Específico
++ Práctico y económico
++ Asociado a un plazo
 
 * Unidad 8: Administración estratégica
 La *administración estratégica* es un proceso de evaluación sistemática de
